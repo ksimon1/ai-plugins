@@ -1,0 +1,13 @@
+{
+  "name": "ksimon1-ai-plugins",
+  "owner": {
+    "name": "ksimon1"
+  },
+  "plugins": [
+    {
+      "name": "jira-to-pr",
+      "source": "./plugins/jira-to-pr",
+      "description": "Complete workflow from Jira task to GitHub PR - fetch details, plan, implement, review, commit, and push"
+    }
+  ]
+}

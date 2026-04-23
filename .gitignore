@@ -1,0 +1,22 @@
+# Claude Code
+.claude/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+change.md
+*.tmp
+*.bak
+
+# Logs
+*.log

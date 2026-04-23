@@ -1,0 +1,8 @@
+{
+  "name": "jira-to-pr",
+  "description": "Complete workflow from Jira task to GitHub PR - fetch details, plan, implement, review, commit, and push",
+  "version": "1.0.0",
+  "author": {
+    "name": "Karel Simon"
+  }
+}
